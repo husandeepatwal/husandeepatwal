@@ -6,7 +6,7 @@
 
 * 🔐 Passionate about **Cybersecurity**, **Machine Learning**, and **AI** — building intelligent systems and helping protect the infrastructure that runs them.
 * 🎓 Pursuing a Bachelor of Commerce in Business Technology Management @ TMU.
-* 🛡️ Former **Cybersecurity Analyst Intern** at Pearson Manufacturing.
+* 🛡️ Former **IT Security Analyst Intern** at Pearson Manufacturing.
 * 📖 Currently working towards my **CompTIA Security+** certification.
 * 💡 When I'm not coding, I'm doing TryHackMe labs, building ML models, and sharpening my security skills.
 * 🌐 Portfolio: [husandeepatwal.github.io](https://husandeepatwal.github.io)
